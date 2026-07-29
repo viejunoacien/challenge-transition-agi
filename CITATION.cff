@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite the Zenodo preprint."
+title: "El desafío de la transición a la AGI"
+type: article
+authors:
+  - family-names: "de la Osa Cabezas"
+    given-names: "Miguel Ángel"
+year: 2026
+date-released: 2026-07-29
+version: "1.0"
+doi: "10.5281/zenodo.21686521"
+url: "https://doi.org/10.5281/zenodo.21686521"
+license: "CC-BY-NC-ND-4.0"
+abstract: >-
+  Este artículo sostiene que el riesgo decisivo de la inteligencia artificial
+  general no reside únicamente en el estado final de una eventual
+  superinteligencia, sino en la transición hacia ella. Frente a la falsa
+  alternativa entre control absoluto y confianza ingenua, propone preservar
+  un intervalo entre capacidad y acción donde puedan aparecer contraste de
+  información, objeción, juicio revisable y preferencia por decisiones
+  reversibles.
+keywords:
+  - artificial general intelligence
+  - AGI transition
+  - AI alignment
+  - cognitive sovereignty
+  - nuclear deterrence
+  - biosecurity
+  - systemic risk
+  - reversibility
+  - human-AI co-creation
