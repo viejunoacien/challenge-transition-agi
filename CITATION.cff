@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "If you use or discuss this work, please cite the Zenodo preprint."
-title: "El desafío de la transición a la AGI"
-type: article
+message: "Please cite the article described under preferred-citation."
+title: "The Challenge of the Transition to AGI / El desafío de la transición a la AGI"
+type: dataset
 authors:
   - family-names: "de la Osa Cabezas"
     given-names: "Miguel Ángel"
-year: 2026
-date-released: 2026-07-29
-version: "1.0"
-doi: "10.5281/zenodo.21686521"
-url: "https://doi.org/10.5281/zenodo.21686521"
+version: "2.0"
+date-released: "2026-09-10"
+doi: "10.5281/zenodo.22682179"
+url: "https://doi.org/10.5281/zenodo.22682179"
+repository: "https://github.com/viejunoacien/challenge-transition-agi"
 license: "CC-BY-NC-ND-4.0"
 abstract: >-
   Este artículo sostiene que el riesgo decisivo de la inteligencia artificial
@@ -20,12 +20,22 @@ abstract: >-
   información, objeción, juicio revisable y preferencia por decisiones
   reversibles.
 keywords:
-  - artificial general intelligence
-  - AGI transition
-  - AI alignment
-  - cognitive sovereignty
-  - nuclear deterrence
-  - biosecurity
-  - systemic risk
-  - reversibility
-  - human-AI co-creation
+  - "artificial general intelligence"
+  - "AGI transition"
+  - "AI alignment"
+  - "cognitive sovereignty"
+  - "nuclear deterrence"
+  - "biosecurity"
+  - "systemic risk"
+  - "reversibility"
+  - "human-AI co-creation"
+preferred-citation:
+  type: article
+  title: "El desafío de la transición a la AGI"
+  authors:
+    - family-names: "de la Osa Cabezas"
+      given-names: "Miguel Ángel"
+  year: 2026
+  version: "2.0"
+  doi: "10.5281/zenodo.22682179"
+  url: "https://doi.org/10.5281/zenodo.22682179"
